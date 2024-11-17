@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sydsbbgh, I'm actually a designer 🧑‍🎨
+- 👋 Hi, I’m @sydsbbgh, First of all, I would like to say that I am not a software developer, I'm actually a designer 🧑‍🎨
 - 👀 I’m interested in technology in general, specially when it's fun and beneficial
 - 🌱 I’m currently learning web development stuff, I guess :) 
 - 💞️ I’m looking to collaborate on applications that are efficient in the way they're built and provide value to people
